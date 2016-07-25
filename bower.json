@@ -1,0 +1,20 @@
+{
+  "name": "first-bem-template",
+  "homepage": "https://github.com/vitatkachenko/first-use-of-BEM",
+  "authors": [
+    "Vita Tkachenko <vita.tkachenko19@gmail.com>"
+  ],
+  "dependencies": {
+  	"fontawesome": "latest"
+  },
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
